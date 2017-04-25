@@ -49,6 +49,10 @@
         <source-file src="src/android/ThemeableBrowserDialog.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
         <source-file src="src/android/InAppChromeClient.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
         <source-file src="src/android/ThemeableBrowserUnmarshaller.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
+        
+        <resource-file src="src/android/res/drawable-xhdpi/back.png" target="res/drawable-xhdpi/back.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/back_pressed.png" target="res/drawable-xhdpi/back_pressed.png" />
+        
     </platform>
 
     <!-- ios -->
